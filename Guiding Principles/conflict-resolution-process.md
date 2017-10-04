@@ -20,7 +20,7 @@ At all [stages](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#st
 
 1. In the first phase, the two partners sit together and try to sort it out privately.
 
-2. If they can’t find a solution agreeable to both, they nominate another [partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather they support the participants in coming to their own solution. Again, a clear request is needed, and a Yes, No, or a compromise.
+2. If they can’t find a solution agreeable to both, they nominate another [partner] (https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather they support the participants in coming to their own solution. Again, a clear request is needed, and a Yes, No, or a compromise.
 
 3. If mediation fails, a panel of topic-relevant partners is convened. Again the panel does not impose a solution. They weigh in with what they think is fair, and it's up to the person receiving the request to decide.
 

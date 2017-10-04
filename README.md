@@ -12,7 +12,7 @@ As a small company, this document will change. We reserve the right to amend, re
 
 All feedback and suggestions \(in the form of pull requests\) are appreciated. This is a work in progress we hope will get better with more time and more contributors.
 
-Each[partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)must read, understand, and comply with this guide. Our goal is to work together towards a work environment that is constructive and supports both personal and professional growth.
+Each [partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner) must read, understand, and comply with this guide. Our goal is to work together towards a work environment that is constructive and supports both personal and professional growth.
 
 _**This document is subject to change without prior notice.**_
 
@@ -23,15 +23,15 @@ While we attempt to get you to sign and accept the Guide as a guidebook for our 
 Specifically, we strongly suggest you review the following contractual documents:
 
 * [Acknowledgement of Receipt and Acceptance](https://omalab.gitbooks.io/omalab-guide/content/Hiring-Documents/Acknowledgment-of-Receipt.html)
-  - This is the document we request you sign and send back. If you don't, then accepting and depositing any payment from OMAlab, Inc. is considered acceptance of this agreement.
+  * This is the document we request you sign and send back. If you don't, then accepting and depositing any payment from OMAlab, Inc. is considered acceptance of this agreement.
 * [Confidential Information, Invention Assignment, and Arbitration Agreement](https://omalab.gitbooks.io/omalab-guide/content/Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.html)
-  - This document is your actual employment agreement. It defines standard terms for your employment or contract. It also handles assignment of intellectual property created while being paid by OMALab, Inc.
+  * This document is your actual employment agreement. It defines standard terms for your employment or contract. It also handles assignment of intellectual property created while being paid by OMALab, Inc.
 * [At-Will Employment](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/At-Will-Employment.html)
-  - Your employment is ultimatley At-Will. This is a legal term. Please review this.
+  * Your employment is ultimately At-Will. This is a legal term. Please review this.
 * [Supplemental Policies for Remote Employees and Contractor](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/supplemental-policies-for-remote-employees-and-contractors.html)
-  - As a remote employee, or if you are working from home some of the time, this applies to you. Please review.
+  * As a remote employee, or if you are working from home some of the time, this applies to you. Please review.
 * [Supplemental Policies for Bonus and Commissions](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/supplemental-policy-for-bonus-commissions-and-other-performance-based-payments.html)
-  - Getting a bonus or an MBO? Then, you should review this document.
+  * Getting a bonus or an MBO? Then, you should review this document.
 * [Disputes and Arbitration](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/disputes-and-arbitration.html)
   Most of this is covered in the Confidential information agreement. But, for the sake of completeness, we defined the terms of this again.
 

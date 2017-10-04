@@ -36,8 +36,5 @@ Sometimes, a [partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.
 
 ## Partners v.s. Non-Partners {#partners-vs-non-partners}
 
-Our conflict resolution process is an agreement made by and between partners. It's important to remember and acknowledge that no other stakeholders are bound to this process, or have agreed to it. When resolving conflicts with non partners, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
-
-  
-
+Our conflict resolution process is an agreement made by and between partners. It's important to remember and acknowledge that no other stakeholders are bound to this process, or have agreed to it. When resolving conflicts with non-partners, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
 

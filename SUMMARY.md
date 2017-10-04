@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Guiding Principles](chapter1.md)
+  * [Mission Statement](chapter1/mission-statement.md)
+

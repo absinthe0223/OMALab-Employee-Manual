@@ -14,4 +14,5 @@
   * [Expense Policy](chapter1/expense-policy.md)
   * [Supplemental Policies for Bonuses, Commissions, and other Performance-based Payments](chapter1/supplemental-policies-for-bonuses-commissions-and-other-performance-based-payments.md)
   * [Supplemental Policies for Hourly-Paid International Contractors](chapter1/supplemental-policies-for-hourly-paid-international-contractors.md)
+  * [Supplemental Policies for Remote Employees and Contractors](chapter1/supplemental-policies-for-remote-employees-and-contractors.md)
 

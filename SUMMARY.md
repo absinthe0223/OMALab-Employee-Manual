@@ -22,4 +22,5 @@
   * [Holiday List](perks-and-benefits/holiday-list.md)
 * [Hiring Documents](hiring-documents.md)
   * [Acknowledgement of Receipt](hiring-documents/acknowledgement-of-receipt.md)
+  * [Confidentiality Agreement](hiring-documents/confidentiality-agreement.md)
 

@@ -13,4 +13,5 @@
   * [Equal Opportunity Employment](chapter1/equal-opportunity-employment.md)
   * [Expense Policy](chapter1/expense-policy.md)
   * [Supplemental Policies for Bonuses, Commissions, and other Performance-based Payments](chapter1/supplemental-policies-for-bonuses-commissions-and-other-performance-based-payments.md)
+  * [Supplemental Policies for Hourly-Paid International Contractors](chapter1/supplemental-policies-for-hourly-paid-international-contractors.md)
 

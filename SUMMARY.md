@@ -16,4 +16,5 @@
   * [Supplemental Policies for Hourly-Paid International Contractors](chapter1/supplemental-policies-for-hourly-paid-international-contractors.md)
   * [Supplemental Policies for Remote Employees and Contractors](chapter1/supplemental-policies-for-remote-employees-and-contractors.md)
   * [Vacation, Holidays and PTO Policy](chapter1/vacation-holidays-and-pto-policy.md)
+* [Perks and Benefits](perks-and-benefits.md)
 

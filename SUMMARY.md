@@ -10,4 +10,5 @@
   * [Complaint Policy](chapter1/complaint-policy.md)
   * [Disputes and Arbitration](chapter1/disputes-and-arbitration.md)
   * [Drug and Alcohol Policy](chapter1/drug-and-alcohol-policy.md)
+  * [Equal Opportunity Employment](chapter1/equal-opportunity-employment.md)
 

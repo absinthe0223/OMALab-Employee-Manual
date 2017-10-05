@@ -24,4 +24,5 @@
   * [Acknowledgement of Receipt](hiring-documents/acknowledgement-of-receipt.md)
   * [Confidentiality Agreement](hiring-documents/confidentiality-agreement.md)
   * [Documents that Accepting your First Payment Triggers An Acknowledgement and Acceptance](hiring-documents/documents-that-accepting-your-first-payment-triggers-an-acknowledgement-and-acceptance.md)
+* [Acknowledgements](acknowledgements.md)
 

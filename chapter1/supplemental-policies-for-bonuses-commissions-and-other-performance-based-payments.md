@@ -20,5 +20,5 @@ If the sales deal includes other types of revenue, such as support, consulting, 
 
 OMAlab will make payments within one pay period of receipt of funds by the customer/client, in the case of Commission payments that are recognized as commissionable.
 
-All commission payments \(or lack of payment for commission\) will be considered final after 30 days. No changes to payouts in favor of the[partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)can be made after 30 days. The company reserves the right to make changes in the company favor for errors, omissions, and other items at any point the incorrect payment is recognized, up to three \(3\) yea
+All commission payments \(or lack of payment for commission\) will be considered final after 30 days. No changes to payouts in favor of the[partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)can be made after 30 days. The company reserves the right to make changes in the company favor for errors, omissions, and other items at any point the incorrect payment is recognized, up to three \(3\) years.
 

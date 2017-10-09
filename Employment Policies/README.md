@@ -4,7 +4,7 @@ By receiving a payment from OMAlab for effort, these policies apply to you. Whet
 
 **These rules, and all decisions related to your employment and compensation, are ultimately at the discretion of your manager and the leadership of the company.**
 
-The company has final decision-making authority on all matters. As a [partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)and as a condition of your payment, you agree to this term. While we will always attempt to be fair and reasonable, we have ot protect the interests of the company first and foremost over your personal interests.
+The company has final decision-making authority on all matters. As a [partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner) and as a condition of your payment, you agree to this term. While we will always attempt to be fair and reasonable, we have ot protect the interests of the company first and foremost over your personal interests.
 
 **You agree to a third party arbitrator of the company's choosing to resolve matters that cannot be amicably resolved.**
 

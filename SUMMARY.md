@@ -25,6 +25,9 @@
   * [Acknowledgement of Receipt](hiring-documents/acknowledgement-of-receipt.md)
   * [Confidentiality Agreement](hiring-documents/confidentiality-agreement.md)
   * [Documents that Accepting your First Payment Triggers An Acknowledgement and Acceptance](hiring-documents/documents-that-accepting-your-first-payment-triggers-an-acknowledgement-and-acceptance.md)
-* [Acknowledgements](acknowledgements.md)
 * [Annual Agreements](annual-agreements.md)
+  * [2017](annual-agreements/2017.md)
+    * [2017 Sales Compensation Plan](annual-agreements/2017/2017-sales-compensation-plan.md)
+    * [2017 Sample Sales Compensation Letter](annual-agreements/2017/2017-sample-sales-compensation-letter.md)
+* [Acknowledgements](acknowledgements.md)
 

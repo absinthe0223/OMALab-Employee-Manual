@@ -42,6 +42,7 @@ The FY 17/18 plan will pay commission on the Net Revenue \(i.e. gross profit\) o
 | Annual Gross Revenue Target \(AGRT\) | The expected annual gross revenue expected to be collected from your territory. |
 | Annual Net Revenue Target \(ANRT\) | The expected annual net revenue expected to be collected from your territory. |
 | Quarterly Targets \(QT\) | By quarter, you are expected to achieve a certain percentage of the total expected revenue from your territory. |
+| Contract Value | The total agreed upon payments that are defined in a recurring revenue agreement. The customer/client is required to pay this amount over time per the terms of the agreement. |
 
 The formula used for this calculation is: C = CR \* GP.
 
@@ -59,7 +60,9 @@ These individual sales targets will be discussed with team members individually 
 
 Individual territory and account coverage will be agreed upon between you and your manager and outlined in your individual sales compensation letter.  Account, Territory Assignments, and other factors may be modified at any time by the executive compensation committee, the CEO, or the VP of Sales.
 
-When you exceed your AGRT and ANRT, you will be paid 120% of your commission rate on the excess above the ANRT.
+When you exceed your AGRT and ANRT contract values, you will be paid **120%** of your commission rate on the excess above the ANRT.
+
+The accelerator for achieving quota will only be paid on the remainder of the sales plan term. 
 
 For the purposes of planning, you will be expected to "hit" quarterly revenue targets as a percentage of your Annual targets. Unless defined in your compensation letter, the following quarterly targets apply:
 
@@ -139,8 +142,6 @@ Any employee or contractor terminated for reasons other than cause or misconduct
 Any employee terminated for cause will not be paid any commissions.
 
 Commissions payable for recurring revenue will only be paid to the date of termination and will be prorated to the date of termination.
-
-
 
 **ALL TERMS IN THIS AGREEMENT ARE SUBJECT TO CHANGE AND ARE NON-BINDING ON THE COMPANY. ULTIMATELY, IT IS UP TO THE DISCRETION OF THE CEO, EXECUTIVE COMPENSATION TEAM, AND THE BOARD OF DIRECTORS WHICH, IF ANY, COMMISSION PAYMENTS ARE MADE TO ANY INDIVIDUAL AT ANY TIME. BY ENGAGING IN AN EMPLOYEE OR CONTRACTUAL RELATIONSHIP WITH THE COMPANY, YOU ACKNOWLEDGE THESE TERMS. **
 

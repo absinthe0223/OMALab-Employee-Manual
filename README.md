@@ -24,15 +24,15 @@ Specifically, we strongly suggest you review the following contractual documents
 
 * [Acknowledgement of Receipt and Acceptance](/Acknowledgement of Receipt and Acceptance of Your Guide)
   * This is the document we request you sign and send back. If you don't, then accepting and depositing any payment from OMAlab, Inc. is considered acceptance of this agreement.
-* [Confidential Information, Invention Assignment, and Arbitration Agreement](https://omalab.gitbooks.io/omalab-guide/content/Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.html)
+* [Confidential Information, Invention Assignment, and Arbitration Agreement](/Confidentiality Agreement)
   * This document is your actual employment agreement. It defines standard terms for your employment or contract. It also handles assignment of intellectual property created while being paid by OMALab, Inc.
-* [At-Will Employment](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/At-Will-Employment.html)
+* [At-Will Employment](/chapter1/at-will-employment.md)
   * Your employment is ultimately At-Will. This is a legal term. Please review this.
-* [Supplemental Policies for Remote Employees and Contractor](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/supplemental-policies-for-remote-employees-and-contractors.html)
+* [Supplemental Policies for Remote Employees and Contractors](/chapter1/supplemental-policies-for-remote-employees-and-contractors.md)
   * As a remote employee, or if you are working from home some of the time, this applies to you. Please review.
-* [Supplemental Policies for Bonus and Commissions](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/supplemental-policy-for-bonus-commissions-and-other-performance-based-payments.html)
+* [Supplemental Policies for Bonus and Commissions](/chapter1/supplemental-policies-for-bonuses-commissions-and-other-performance-based-payments.md)
   * Getting a bonus or an MBO? Then, you should review this document.
-* [Disputes and Arbitration](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/disputes-and-arbitration.html)
+* [Disputes and Arbitration](/chapter1/disputes-and-arbitration.md)
   Most of this is covered in the Confidential information agreement. But, for the sake of completeness, we defined the terms of this again.
 
 EMPLOYEE ACKNOWLEDGES AND AGREES THAT EMPLOYEE IS EXECUTING THIS AGREEMENT VOLUNTARILY AND WITHOUT ANY DURESS OR UNDUE INFLUENCE BY THE COMPANY OR ANYONE ELSE. EMPLOYEE FURTHER ACKNOWLEDGES AND AGREES THAT EMPLOYEE HAS CAREFULLY READ THIS AGREEMENT AND THAT EMPLOYEE HAS ASKED ANY QUESTIONS NEEDED FOR EMPLOYEE TO UNDERSTAND THE TERMS, CONSEQUENCES AND BINDING EFFECT OF THIS AGREEMENT AND FULLY UNDERSTAND IT, INCLUDING THAT EMPLOYEE IS WAIVING EMPLOYEE’S RIGHT TO A JURY TRIAL. FINALLY, EMPLOYEE AGREES THAT EMPLOYEE HAS BEEN PROVIDED AN OPPORTUNITY TO SEEK THE ADVICE OF AN ATTORNEY OF EMPLOYEE’S CHOICE BEFORE SIGNING THIS AGREEMENT.

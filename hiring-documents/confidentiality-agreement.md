@@ -1,5 +1,3 @@
-edit metadata
-
 # CONFIDENTIAL INFORMATION, INVENTION ASSIGNMENT and ARBITRATION AGREEMENT
 
 **OMALAB, INC.**
@@ -181,6 +179,4 @@ Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [Google Documents Version](https://www.gitbook.com/book/absinthe0223/omalab-employee-manual/edit#)
-
-
 

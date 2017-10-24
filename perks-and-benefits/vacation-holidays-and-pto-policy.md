@@ -2,11 +2,11 @@ EARLY DRAFT: This section still needs a lot more work before it is ready. Most t
 
 # Vacation, Holiday, and Paid Time Off \(PTO\) Policy
 
-Here at OMAlab, we’re working hard on creating a culture of personal responsibility and mutual trust, and we wanted our vacation and time off policy to reflect that. After some reflection, we decided to adopt an[_Open_](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#open)\_PTO Policy\_which allows our employees the flexibility to take time off when they need it. Netflix and other large employers have shown that this can work on a large scale, and it matches our culture perfectly.
+Here at OMAlab, we’re working hard on creating a culture of personal responsibility and mutual trust, and we wanted our vacation and time off policy to reflect that. After some reflection, we decided to adopt an Open \_PTO Policy\_which allows our employees the flexibility to take time off when they need it. Netflix and other large employers have shown that this can work on a large scale, and it matches our culture perfectly.
 
 We strongly feel that we’ll have better employee productivity and retention with this policy, but it’s not for everyone. It requires a strong peer review process and a lot of trust in your employees.
 
-Here at OMAlab, we recognize the need for employees to take time away from the office to creatively recharge, and that not everyone works the best during traditional 9 to 5 office hours. We also believe in taking personal responsibility for managing our own time, workload and results. To that end, we’ve adopted an[Open](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#open)PTO \(Paid Time Off\) policy, in which each employee is afforded the flexibility to take vacation, take time off for illness and shift schedules as necessary.
+Here at OMAlab, we recognize the need for employees to take time away from the office to creatively recharge, and that not everyone works the best during traditional 9 to 5 office hours. We also believe in taking personal responsibility for managing our own time, workload and results. To that end, we’ve adopted an Open PTO \(Paid Time Off\) policy, in which each employee is afforded the flexibility to take vacation, take time off for illness and shift schedules as necessary.
 
 ## Our Policy
 
@@ -24,7 +24,7 @@ Be productive. You are engaged by OMAlab with a role that has expectations and r
 
 ## Details
 
-1. The OMAlab [Open](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#open) PTO plan is only available to full-time, exempt \(salaried\) OMAlab employees.
+1. The OMAlab Open PTO plan is only available to full-time, exempt \(salaried\) OMAlab employees.
 2. You do not “accrue” PTO days as in traditional plans, and so will not be compensated for “unused” PTO time when you leave the company.
 
 

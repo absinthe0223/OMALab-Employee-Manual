@@ -7,6 +7,8 @@
 
 These policies do not apply to hourly employees in the United States, which have laws and regulations related to hourly work.
 
+You agree that if you are not inside of the United States, these policies apply to you, 
+
 You agree that your hourly wages are based on how productive you are, not for the hours you choose to bill us.
 
 ##### Not To Exceed Limit

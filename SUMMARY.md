@@ -22,6 +22,7 @@
     * [Time Off](chapter1/policies/time-off.md)
     * [Remote Work](chapter1/policies/remote-work.md)
     * [Hourly Work](chapter1/policies/hourly-work.md)
+    * [Bonus & Commission](chapter1/policies/bonus-and-commission.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)

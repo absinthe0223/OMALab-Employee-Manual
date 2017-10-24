@@ -1,5 +1,3 @@
-edit metadata
-
 # Documents that Accepting your First Payment Triggers An Acknowledgement and Acceptance
 
 While we attempt to get you to sign and accept the Guide as a guidebook for our working relationship--sometimes its difficult to get these documents back. Given this, you understand and acknowledge that by receiving a payment from OMALab, Inc. you are accepting the terms of this guidebook in its entirety, in all current and future versions.

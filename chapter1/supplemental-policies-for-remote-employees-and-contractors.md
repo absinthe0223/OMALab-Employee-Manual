@@ -68,11 +68,19 @@ You will update your manager daily on your working activities and how much time 
 
 ### You will maintain a way to reach you outside of through Slack or email with a mobile phone number capable of working in your native country and receiving SMS and phone calls. {#you-will-maintain-a-way-to-reach-you-outside-of-through-slack-or-email-with-a-mobile-phone-number-capable-of-working-in-your-native-country-and-receiving-sms-and-phone-calls}
 
-As a person working with us, there will be times occassionally when someone has a question after hours. You must maintain a phone and provide a phone number for us to use to reach you via both SMS and phone calls. Our primary communications are through Slack. However, when Slack fails, you should be reachable via this alternative method.
+As a person working with us, there will be times occasionally when someone has a question after hours. You must maintain a phone and provide a phone number for us to use to reach you via both SMS and phone calls. Our primary communications are through Slack. However, when Slack fails, you should be reachable via this alternative method.
 
-Secondarily, by maintaining this, you can reach us and provide a status update, even if you computer is not immedately available \(for example, a family emergency that will cause you to miss a deadline\).
+Secondarily, by maintaining this, you can reach us and provide a status update, even if you computer is not immediately available \(for example, a family emergency that will cause you to miss a deadline\).
 
 Not providing or maintaining a properly working phone, as well as providing us access, is grounds for termination.
+
+### If you have an unexpected emergency such as illness or Internet outage, you MUST let us know the situation and timeframe for return. {#you-will-maintain-a-way-to-reach-you-outside-of-through-slack-or-email-with-a-mobile-phone-number-capable-of-working-in-your-native-country-and-receiving-sms-and-phone-calls}
+
+We are depending on you to do your work daily. If you, for some reason, have an emergency and cannot do your work, you MUST let your manager know what the situation is, and what the expected timeframe is for resolution. Your lack of work/delivery impacts the company and its timeline to get work done, even if you do not bill any hours. 
+
+This includes personal emergencies \(such as going to the hospital\) as well as issues with your Internet or power.  And, to be clear, this is NOT an acceptable excuse for missing a deadline. 
+
+This is the most common remote excuse for workers, particularly that are remote in Asia or India--some emergency, going to the hospital, I have a fever, the Internet wasn't working yesterday. IF this happens regularly, and something is expected of you that is not delivered, it will be grounds for termination.
 
 ### You will check in your work/code daily into our systems, or when changing locations. {#you-will-check-in-your-workcode-daily-into-our-systems-or-when-changing-locations}
 

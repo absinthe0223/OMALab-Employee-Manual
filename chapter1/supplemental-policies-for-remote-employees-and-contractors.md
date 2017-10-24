@@ -76,9 +76,9 @@ Not providing or maintaining a properly working phone, as well as providing us a
 
 ### If you have an unexpected emergency such as illness or Internet outage, you MUST let us know the situation and timeframe for return. {#you-will-maintain-a-way-to-reach-you-outside-of-through-slack-or-email-with-a-mobile-phone-number-capable-of-working-in-your-native-country-and-receiving-sms-and-phone-calls}
 
-We are depending on you to do your work daily. If you, for some reason, have an emergency and cannot do your work, you MUST let your manager know what the situation is, and what the expected timeframe is for resolution. Your lack of work/delivery impacts the company and its timeline to get work done, even if you do not bill any hours. 
+We are depending on you to do your work daily. If you, for some reason, have an emergency and cannot do your work, you MUST let your manager know what the situation is, and what the expected timeframe is for resolution. Your lack of work/delivery impacts the company and its timeline to get work done, even if you do not bill any hours.
 
-This includes personal emergencies \(such as going to the hospital\) as well as issues with your Internet or power.  And, to be clear, this is NOT an acceptable excuse for missing a deadline. 
+This includes personal emergencies \(such as going to the hospital\) as well as issues with your Internet or power.  And, to be clear, this is NOT an acceptable excuse for missing a deadline.
 
 This is the most common remote excuse for workers, particularly that are remote in Asia or India--some emergency, going to the hospital, I have a fever, the Internet wasn't working yesterday. IF this happens regularly, and something is expected of you that is not delivered, it will be grounds for termination.
 
@@ -118,7 +118,7 @@ In addition, regular absences, especially around delivery times, is grounds for 
 
 The same rule applies to "medical emergencies", family situations, and other things that cause people to be absent--basically anything that happens when you are not at work.
 
-### You cannot start without signing an[NDA, Non-compete, Non-solicitation, and Intellectual Property Agreement](https://omalab.gitbooks.io/omalab-guide/content/Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.html). {#you-cannot-start-without-signing-an-nda-non-compete-non-solicitation-and-intellectual-property-agreement}
+### You cannot start without signing an [NDA, Non-compete, Non-solicitation, and Intellectual Property Agreement](https://omalab.gitbooks.io/omalab-guide/content/Hiring-Documents/Partner-Proprietary-Information-and-Inventions-Assignment-Agreement.html). {#you-cannot-start-without-signing-an-nda-non-compete-non-solicitation-and-intellectual-property-agreement}
 
 Before starting work, you will be sent materials that you are required to execute. You will not be paid without these documents being fully executed and received by the company. It is YOUR responsibility to ensure you have completed all these documents. If you receive payment from OMAlab, Inc. you acknowledge that this is considered execution of this agreement.
 

@@ -1,6 +1,3 @@
-  
-
-
 edit metadata
 
 # Documents that Accepting your First Payment Triggers An Acknowledgement and Acceptance
@@ -9,12 +6,7 @@ While we attempt to get you to sign and accept the Guide as a guidebook for our 
 
 Specifically, we strongly suggest you review the following contractual documents:
 
-[Acknowledgement of Receipt and Acceptance](https://www.gitbook.com/book/absinthe0223/omalab-employee-manual/edit#)- This is the document we request you sign and send back. If you don't, then accepting and depositing any payment from OMAlab, Inc. is considered acceptance of this agreement.
+[Acknowledgement of Receipt and Acceptance](/hiring-documents/acknowledgement-of-receipt.md) - This is the document we request you sign and send back. If you don't, then accepting and depositing any payment from OMAlab, Inc. is considered acceptance of this agreement.
 
 [Confidential Information, Invention Assignment, and Arbitration Agreement](https://www.gitbook.com/book/absinthe0223/omalab-employee-manual/edit#)- This document is your actual employment agreement. It defines standard terms for your employment or contract. It also handlesassignment of intellectual property created while being paid by OMALab, Inc.
-
-
-
-  
-
 

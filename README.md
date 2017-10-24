@@ -12,7 +12,7 @@ As a small company, this document will change. We reserve the right to amend, re
 
 All feedback and suggestions \(in the form of pull requests\) are appreciated. This is a work in progress we hope will get better with more time and more contributors.
 
-Each [partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner) must read, understand, and comply with this guide. Our goal is to work together towards a work environment that is constructive and supports both personal and professional growth.
+Each team member must read, understand, and comply with this guide. Our goal is to work together towards a work environment that is constructive and supports both personal and professional growth.
 
 _**This document is subject to change without prior notice.**_
 

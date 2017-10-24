@@ -17,6 +17,7 @@
   * [Supplemental Policies for Remote Employees and Contractors](chapter1/supplemental-policies-for-remote-employees-and-contractors.md)
   * [Vacation, Holidays and PTO Policy](chapter1/vacation-holidays-and-pto-policy.md)
   * [Supplemental Policy for Client Engineering](chapter1/supplemental-policy-for-client-engineering.md)
+  * [Policies](chapter1/policies.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)

@@ -2,7 +2,7 @@ EARLY DRAFT: This section still needs a lot more work before it is ready. Most t
 
 # Vacation, Holiday, and Paid Time Off \(PTO\) Policy
 
-Here at OMAlab, we’re working hard on creating a culture of personal responsibility and mutual trust, and we wanted our vacation and time off policy to reflect that. After some reflection, we decided to adopt an Open \_PTO Policy\_which allows our employees the flexibility to take time off when they need it. Netflix and other large employers have shown that this can work on a large scale, and it matches our culture perfectly.
+Here at OMAlab, we’re working hard on creating a culture of personal responsibility and mutual trust, and we wanted our vacation and time off policy to reflect that. After some reflection, we decided to adopt an **Open PTO Policy** which allows our employees the flexibility to take time off when they need it. Netflix and other large employers have shown that this can work on a large scale, and it matches our culture perfectly.
 
 We strongly feel that we’ll have better employee productivity and retention with this policy, but it’s not for everyone. It requires a strong peer review process and a lot of trust in your employees.
 

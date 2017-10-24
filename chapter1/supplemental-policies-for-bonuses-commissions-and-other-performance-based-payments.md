@@ -1,8 +1,8 @@
 # Supplemental Policies for Bonuses, Commissions, and other Performance-based Payments {#supplemental-policies-for-bonuses-commissions-and-other-performance-based-payments}
 
-For partners that have a performance-component to their payments made by OMAlab, the following policies apply.
+For team members that have a performance-component to their payments made by OMAlab, the following policies apply.
 
-All payment are based on performance of an**established metric, documented in a Management by Objective Plan**\("MBO Plan" or "MBOs"\) or**Sales Commission Plan**\("Sales Plan"\) that specifically defines the metrics of these payments.
+All payment are based on performance of an **established metric, documented in a Management by Objective Plan** \("MBO Plan" or "MBOs"\) or **Sales Commission Plan** \("Sales Plan"\) that specifically defines the metrics of these payments.
 
 Any jointly executed MBO, Sales Plan, Commission Plan, or other agreement is to be considered in all cases a guideline for payment. In all cases, any and all payments of any bonus or commisions are absoutely at the discretion of the CEO.
 
@@ -20,5 +20,5 @@ If the sales deal includes other types of revenue, such as support, consulting, 
 
 OMAlab will make payments within one pay period of receipt of funds by the customer/client, in the case of Commission payments that are recognized as commissionable.
 
-All commission payments \(or lack of payment for commission\) will be considered final after 30 days. No changes to payouts in favor of the[partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner)can be made after 30 days. The company reserves the right to make changes in the company favor for errors, omissions, and other items at any point the incorrect payment is recognized, up to three \(3\) years.
+All commission payments \(or lack of payment for commission\) will be considered final after 30 days. No changes to payouts in favor of the team member can be made after 30 days. The company reserves the right to make changes in the company favor for errors, omissions, and other items at any point the incorrect payment is recognized, up to three \(3\) years.
 

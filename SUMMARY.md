@@ -20,6 +20,7 @@
   * [Policies](chapter1/policies.md)
     * [Client Engineering](chapter1/policies/client-engineering.md)
     * [Time Off](chapter1/policies/time-off.md)
+    * [Remote Work](chapter1/policies/remote-work.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)

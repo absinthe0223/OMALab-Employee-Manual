@@ -2,7 +2,7 @@
 
 A large chunk of this Guide was forked from Clef's excellent [Partner Handbook](https://github.com/clef/handbook).
 
-Holacracy pages and how-tos was forked from the excellent folks at DevBootcamp.
+Holacracy pages and how-tos were forked from the excellent folks at DevBootcamp.
 
 The entire base repo for this was forked from the Learner's Guild.
 

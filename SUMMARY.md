@@ -28,6 +28,7 @@
   * [General Policies](chapter1/general-policies.md)
     * Conduct
     * [Complaints](chapter1/general-policies/complaints.md)
+    * [Alcohol](chapter1/general-policies/alcohol.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)

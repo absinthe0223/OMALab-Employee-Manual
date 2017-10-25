@@ -1,4 +1,4 @@
-“A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we \(notice the plural\) could achieve that, then my \(notice the singular\) life would have meaning.’” ~ Dee Hock
+> “A true purpose always has ethical and moral content, which can be either implicit or explicit. It is a statement to which all members of the community can say with the wholeness of mind, body and spirit, ‘If we \(notice the plural\) could achieve that, then my \(notice the singular\) life would have meaning.’” ~ Dee Hock
 
 # Purpose, Mission, and Vision {#purpose-mission-and-vision}
 

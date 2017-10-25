@@ -56,7 +56,7 @@ Ultimately, it is your responsibility to ensure your time tracking and billing s
 
 Failure to comply with this policy is grounds for immediate termination.
 
-### You must track your time using Hubstaff, with live screenshots, unless you are on UpWork or similar service. {#you-must-track-your-time-using-hubstaff-with-live-screenshots-unless-you-are-on-upwork-or-similar-service}
+### You must track your time using Hubstaff, with live screenshots, unless you are on UpWork or similar service that include screenshot tracking. {#you-must-track-your-time-using-hubstaff-with-live-screenshots-unless-you-are-on-upwork-or-similar-service}
 
 If you are billing directly, or you are billing through a service like UpWork using manual hours, you are required to track your time using Hubstaff. This both makes your time accountable and trackable, and we can see exactly what you're working on.
 

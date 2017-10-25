@@ -25,10 +25,11 @@
   * [Legal Policies](chapter1/legal-policies.md)
     * [At Will Employment](chapter1/at-will-employment.md)
     * [Disputes](chapter1/disputes.md)
+    * [Equal Opportunity](chapter1/equal-opportunity.md)
   * [General Policies](chapter1/general-policies.md)
     * Conduct
     * [Complaints](chapter1/general-policies/complaints.md)
-    * [Alcohol](chapter1/general-policies/alcohol.md)
+    * [Substance](chapter1/general-policies/alcohol.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)

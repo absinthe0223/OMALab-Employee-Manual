@@ -16,7 +16,7 @@
     * [Disputes](chapter1/disputes.md)
     * [Equal Opportunity](chapter1/equal-opportunity.md)
 * [General Policies](chapter1/general-policies.md)
-  * Conduct
+  * [Conduct](chapter1/general-policies/conduct.md)
   * [Complaints](chapter1/general-policies/complaints.md)
   * [Substance](chapter1/general-policies/alcohol.md)
   * [Expenses](chapter1/general-policies/expenses.md)

@@ -64,7 +64,7 @@ Hours billed but not tracked in Hubstaff are subject to non-payment. And, failur
 
 ### You must give your manager a status at least once per day. {#you-must-give-your-manager-a-status-at-least-once-per-day}
 
-You will update your manager daily on your working activities and how much time they took, estimated completion, and what you are scheduled to work on next. This can be delivered via email or Slack communication.
+You are part of a machine. If you don't communicate clearly and effectively to your manager your current status, you can and DO block others from doing their jobs.  Therefore, you must update your manager daily on your working activities and how much time they took, estimated completion, and what you are scheduled to work on next. This can be delivered via email or Slack communication. If you are a remote employee, you should do this every day before you leave for the day.
 
 ### You will maintain a way to reach you outside of through Slack or email with a mobile phone number capable of working in your native country and receiving SMS and phone calls. {#you-will-maintain-a-way-to-reach-you-outside-of-through-slack-or-email-with-a-mobile-phone-number-capable-of-working-in-your-native-country-and-receiving-sms-and-phone-calls}
 

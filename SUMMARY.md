@@ -30,6 +30,7 @@
     * Conduct
     * [Complaints](chapter1/general-policies/complaints.md)
     * [Substance](chapter1/general-policies/alcohol.md)
+    * [Expenses](chapter1/general-policies/expenses.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)

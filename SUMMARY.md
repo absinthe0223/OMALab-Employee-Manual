@@ -11,6 +11,7 @@
     * [Remote Work](chapter1/policies/remote-work.md)
     * [Hourly Work](chapter1/policies/hourly-work.md)
     * [Bonus & Commission](chapter1/policies/bonus-and-commission.md)
+    * [Privacy](chapter1/policies/privacy.md)
   * [Legal Policies](chapter1/legal-policies.md)
     * [At Will Employment](chapter1/at-will-employment.md)
     * [Disputes](chapter1/disputes.md)

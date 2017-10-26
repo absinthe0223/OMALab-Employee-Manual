@@ -124,7 +124,7 @@ Before starting work, you will be sent materials that you are required to execut
 
 ### If you are working on UpWork or similar service, you are expected to bill your hours live \(no manual work\). {#if-you-are-working-on-upwork-or-similar-service-you-are-expected-to-bill-your-hours-live-no-manual-work}
 
-We require all UpWork-based partners to use screen recording to record their screenshots. This is to ensure that, as a remote, on demand contractor, we have a record/log of your actual time being billed to us.
+We require all UpWork-based team members to use screen recording to record their screenshots. This is to ensure that, as a remote, on demand contractor, we have a record/log of your actual time being billed to us.
 
 The logic for this is simple: if you give us manual time, then we have to go back through all your work, and compare your billing to your deliverables, and try to estimate whether we have gotten what we are being asked to pay for. This is a lot of unnecessary work we have to do \(which costs money\), so you can have the pleasure of not having to track your screens. This is why we do NOT support this initially.
 
@@ -158,5 +158,5 @@ If you need more work, ask for it. Don't fake your time.
 
 ### These rules, and all decisions related to your employment and compensation are ultimately at the discretion of your manager and the leadership of the company. {#these-rules-and-all-decisions-related-to-your-employment-and-compensation-are-ultimately-at-the-discretion-of-your-manager-and-the-leadership-of-the-company}
 
-The company has final decision-making authority on all matters. As a[partner](https://omalab.gitbooks.io/omalab-guide/content/GLOSSARY.html#partner), and as a condition of your payment, you agree to this term. While we will always attempt to be fair and reasonable, we have to protect the interests of the company first and foremost over your personal interests.
+The company has final decision-making authority on all matters. As a team member, and as a condition of your payment, you agree to this term. While we will always attempt to be fair and reasonable, we have to protect the interests of the company first and foremost over your personal interests.
 

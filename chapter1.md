@@ -12,10 +12,8 @@ As a condition of your payment, you agree that should a dispute arise that requi
 
 **Topic Areas**
 
-* [Contractor and Remote Employee Supplemental Policy](https://omalab.gitbooks.io/omalab-guide/content/Hiring-Documents/Contractors-Rules.md)
-* [Supplemental Policy for Remote and Hourly Partners](https://omalab.gitbooks.io/omalab-guide/content/Employment-Policies/supplemental-policies-for-remote-employees-and-contractors.html)
-
-
+* [Contractor and Remote Employee Supplemental Policy](/chapter1/supplemental-policies-for-remote-employees-and-contractors.md)
+* [Supplemental Policy for Remote and Hourly Partners](/chapter1/supplemental-policies-for-hourly-paid-international-contractors.md)
 
 
 

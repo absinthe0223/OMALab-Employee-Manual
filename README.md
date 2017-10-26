@@ -1,6 +1,6 @@
 “An idea that is not dangerous is unworthy of being called an idea at all.” ~ Oscar Wilde
 
-# The Guide {#the-guide}
+# The OMAlab Guide {#the-guide}
 
 Welcome to OMALab, Inc. doing business as Audienti.
 

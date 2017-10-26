@@ -1,9 +1,10 @@
 # Summary
 
-* [The Guide](README.md)
-  * [Mission Statement](mission-statement.md)
-  * [General Guidelines](general-guidelines.md)
-  * [Conflict Resolution](conflict-resolution.md)
+* [OMAlab GUIDE](README.md)
+* [The Guiding Principles](the-guiding-principles.md)
+* [Conflict Resolution](conflict-resolution.md)
+* [General Guidelines](general-guidelines.md)
+* [Mission Statement](mission-statement.md)
 * [Employment Policies](chapter1.md)
   * [Supplemental Policies](chapter1/policies.md)
     * [Client Engineering](chapter1/policies/client-engineering.md)

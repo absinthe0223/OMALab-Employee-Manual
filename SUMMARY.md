@@ -1,6 +1,6 @@
 # Summary
 
-* [OMAlab GUIDE](README.md)
+* [OMAlab Guide](README.md)
 * [The Guiding Principles](the-guiding-principles.md)
 * [Conflict Resolution](conflict-resolution.md)
 * [General Guidelines](general-guidelines.md)

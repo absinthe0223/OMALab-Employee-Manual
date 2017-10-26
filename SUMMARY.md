@@ -1,10 +1,10 @@
 # Summary
 
 * [OMAlab Guide](README.md)
-* [The Guiding Principles](the-guiding-principles.md)
-* [Conflict Resolution](conflict-resolution.md)
-* [General Guidelines](general-guidelines.md)
-* [Mission Statement](mission-statement.md)
+* [Guiding Principles](guiding-principles.md)
+  * [Mission Statement](mission-statement.md)
+  * [General Guidelines](general-guidelines.md)
+  * [Conflict Resolution](conflict-resolution.md)
 * [Employment Policies](chapter1.md)
   * [Supplemental Policies](chapter1/policies.md)
     * [Client Engineering](chapter1/policies/client-engineering.md)
@@ -34,5 +34,5 @@
   * [2017](annual-agreements/2017.md)
     * [2017 Sales Compensation Plan](annual-agreements/2017/2017-sales-compensation-plan.md)
     * [2017 Sample Sales Compensation Letter](annual-agreements/2017/2017-sample-sales-compensation-letter.md)
-* [Acknowledgements](acknowledgements.md)
+* Guiding Principles
 

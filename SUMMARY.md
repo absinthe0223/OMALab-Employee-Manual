@@ -34,5 +34,5 @@
   * [2017](annual-agreements/2017.md)
     * [2017 Sales Compensation Plan](annual-agreements/2017/2017-sales-compensation-plan.md)
     * [2017 Sample Sales Compensation Letter](annual-agreements/2017/2017-sample-sales-compensation-letter.md)
-* Guiding Principles
+* [Acknowledgements](acknowledgements.md)
 

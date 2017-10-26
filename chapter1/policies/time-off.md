@@ -22,7 +22,7 @@ Here at OMAlab, we recognize the need for employees to take time away from the o
 
 ### **Your Responsibilities** {#your-responsibilities}
 
-* Keep your coworkers informed. Let your colleagues know at least**2 weeks ahead**of schedule when you’ll be on vacation, and report in on days you need to be out unexpectedly, before you miss the day. This includes holidays that are taken in your country--as your manager may be in a different country or operate on a different holiday schedule.
+* Keep your coworkers informed. Let your colleagues know at least **2 weeks ahead **of schedule when you’ll be on vacation, and report in on days you need to be out unexpectedly, before you miss the day. This includes holidays that are taken in your country--as your manager may be in a different country or operate on a different holiday schedule.
 
 * Be available when you’re needed. Customer calls, staff meetings and other time sensitive responsibilities must be covered regardless of your personal work schedule. If you have planned time off, make sure to coordinate with your coworkers to have coverage for any of your responsibilities during that time off.
 

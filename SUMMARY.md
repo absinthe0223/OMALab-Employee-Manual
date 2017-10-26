@@ -1,6 +1,6 @@
 # Summary
 
-* [Guiding Principles](README.md)
+* [The Guide](README.md)
   * [Mission Statement](mission-statement.md)
   * [General Guidelines](general-guidelines.md)
   * [Conflict Resolution](conflict-resolution.md)

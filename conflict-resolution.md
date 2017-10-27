@@ -1,6 +1,6 @@
 # Conflict Resolution Process {#conflict-resolution-process}
 
-At OMAlab, we address and resolve conflicts with these principles at front of mind:
+At OMALab, we address and resolve conflicts with these principles at front of mind:
 
 * It’s impossible to change other people. We can only change ourselves.
 * We take ownership for our thoughts, beliefs, words, and actions. We don’t spread rumors.

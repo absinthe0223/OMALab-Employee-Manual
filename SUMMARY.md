@@ -1,6 +1,6 @@
 # Summary
 
-* [OMAlab Guide](README.md)
+* [OMALab Guide](README.md)
 * [Guiding Principles](guiding-principles.md)
   * [Mission Statement](mission-statement.md)
   * [General Guidelines](general-guidelines.md)

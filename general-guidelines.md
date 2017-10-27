@@ -12,13 +12,13 @@ You can't sustain a sprint through a marathon. Remember the tortoise. When in do
 
 Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning. Embrace not-knowing, and don't confuse confidence with certainty.
 
-Stay true to it, and seek to clarify its origin. If you give up on your tension, you will disengage from your work, and rob the company from the information embedded in it.
+Stay true to it, and seek to clarify its origin. If you give up on your tension, you will disengage from your work and rob the company from the information embedded in it.
 
 Even as you stay true and firm with your tension, stay loose and flexible with the proposed solution. There are many ways to resolve a tension.
 
 ## Run experiments, not debates {#run-experiments-not-debates}
 
-Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos\(temporarily\), but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement. Stay true to questions not answers.
+Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments protect our egos \(temporarily\) but are utterly useless and unhealthy for learning and growth. If you find yourself in a circular debate, get on the same side to figure out what experiment needs to be run to resolve the disagreement. Stay true to questions, not answers.
 
 ## Save yourself, not the world {#save-yourself-not-the-world}
 

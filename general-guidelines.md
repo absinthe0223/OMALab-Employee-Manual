@@ -58,7 +58,7 @@ Autonomy only works if we choose to communicate over command. In a cooperative e
 
 ## Serve with humility {#serve-with-humility}
 
-OMALab will not single-handedly save the world. We are ultimately, not that important. Act accordingly.
+OMALab will not single-handedly save the world. We are, ultimately, not that important. Act accordingly.
 
 > "We can do no great things, only small things with great love" ~ Mother Teresa
 

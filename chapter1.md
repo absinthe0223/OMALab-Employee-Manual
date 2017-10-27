@@ -8,7 +8,7 @@ The company has final decision-making authority on all matters. As a team member
 
 **You agree to a third party arbitrator of the company's choosing to resolve matters that cannot be amicably resolved.**
 
-As a condition of your payment, you agree that should a dispute arise that requires a third party to resolve, the company may choose a neutral arbitrator to settle the dispute. Should the arbitrator rule in favor of the company, you agree to pay the for the arbitrator's time and expense.
+As a condition of your payment, you agree that should a dispute arise that requires a third party to resolve, the company may choose a neutral arbitrator to settle the dispute. Should the arbitrator rule in favor of the company, you agree to pay the company for the arbitrator's time and expense.
 
 **Topic Areas**
 

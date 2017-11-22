@@ -1,6 +1,6 @@
 # Employment Policies {#employment-policies}
 
-By receiving a payment from OMALab for effort, these policies apply to you. Whether you are a contractor, an occasional freelancer, or a full-time salaried employee.
+By receiving a payment from OMALab for your work, these policies apply to you. Whether you are a contractor, an occasional freelancer, or a full-time salaried employee.
 
 **These rules, and all decisions related to your employment and compensation, are ultimately at the discretion of your manager and the leadership of the company.**
 

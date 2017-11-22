@@ -1,22 +1,22 @@
 ## Client Engineering Policies
 
-At OMALab, Inc, we take the security of our client systems VERY seriously.  As such, these rules are designed to protect both our clients, as well as you, in the event there are problems.
+At OMALab, Inc, we take the security of our client systems VERY seriously.  As such, these rules are designed to protect both our clients, as well as you, in case there are problems.
 
 _**Login Credentials**_
 
 * Before your engagement starts, you must be assigned a UNIQUE set of logins. These logins MUST be used by you at all times.
 * You understand and acknowledge that all of your activities on client sites will be logged by systems installed on the sites. Any files you modify, create, read, or destroy will be logged.  
 * You further understand that, should there ever be a problem with the security of your login credentials, such as added spyware/malware/viruses that are placed onto a client system using your credentials, you will be responsible for these activities. Cures for these activities will be any and/or all of the following:
-  * Termination of you relationship wiht OMALab, Inc. 
+  * Termination of your relationship with OMALab, Inc. 
   * Requested/demand of a refund for any/all of the fees paid to you for providing services to our clients.  
   * Reporting you to any third parties, that might result in the termination of your account on those third party systems.
 
 _**Communications**_
 
 * Slack
-  * All communications in** \#channels** that are client specific are in the public.  The client can see these communications. So, please act at all times in a professional manner.
-  * All direct message communications between you and a client must be copied to William Flanagan. No exceptions. This is done to ensure we have captured all issue, created tickets in Asana, and are tracking items to closure. 
-  * If you have questions related to the task, please Direct Message William Flanagan or your current person that is/has assigned you the task.  
+  * All communications in** \#channels** that are client specific are in the public domain.  The client can see these communications. So, please act at all times in a professional manner.
+  * All direct message communications between you and a client must be copied to William Flanagan. No exceptions. This is done to ensure we have captured all issues, created tickets in Asana, and are tracking items to closure. 
+  * If you have questions related to the tasks, please Direct Message William Flanagan or your the person that is/has assigned you the task.  
 * Email
   * Any email exchanges between you and a client must be forwarded to William Flanagan or the person that has assigned you the task. No exceptions. 
 * Asana
@@ -30,7 +30,7 @@ _**Communications**_
 _**Billing and Time Keeping**_
 
 * All billing must be done with Live screenshot timekeeping through Upwork or Hubstaff.  
-* If you do not assign the time to a specific task, then you MUST add a note to the timekeeping stating what task you are performing. Timekeeping that does not have logs for what it is for will not be paid. 
+* If you do not assign the time to a specific task, then you MUST add a note to the timekeeping stating what task you are performing. Timekeeping that does not have logs will not be paid. 
 
 
 

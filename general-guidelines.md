@@ -34,13 +34,13 @@ It's easy to feel like because we are consulting and educating our customers tha
 * [Don't be afraid to be ridiculous, or screw up \(or be afraid, but do it anyway\)](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?language=en)
 * [Just F@\#\*ing Do It](http://www.bothsidesofthetable.com/2009/11/19/what-makes-an-entrepreneur-four-lettersjfdi/)
 
-> "Be bold, and mighty forces will come to your aid " ~ Johann Goethe
+> "Be bold, and mighty forces will come to your aid " ~ Johann Wofgang von Goethe
 
 ### Identify Your 4 Percent {#identify-your-4-percent}
 
-The net of this best practice is this: The 80/20 rule \(Pareto's principle\) applies to your work \(80% of the results come from 20% of the work\). But, you can Pareto Pareto's principle, and that states that 64% of the benefit comes from just 4% of the work.
+The net of this best practice is this: The 80/20 rule \(Pareto's principle\) applies to your work \(80% of the results come from 20% of the work\). But, if you apply the Pareto principle to Pareto's principle, the result is that 64% of the benefit comes from just 4% of the work.
 
-The key idea here is that it's important to identify your 4%. With a good analysis of what you think your 4% is, you can spend much more time on things that will produce results. This idea fundamentally is the idea of "LEVERAGE". If you do work, and it moves us sideways, you are trading dollars for
+The key idea here is that it's important to identify your 4%. With a good analysis of what you think your 4% is, you can spend much more time on things that will produce results. This idea fundamentally is the idea of "LEVERAGE". If you do work, and it moves us sideways, you are trading dollars.
 
 ## Play harmonies, not solos {#play-harmonies-not-solos}
 

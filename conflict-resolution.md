@@ -1,6 +1,6 @@
 # Conflict Resolution Process {#conflict-resolution-process}
 
-At OMALab, we address and resolve conflicts with these principles at front of mind:
+At OMALab, we address and resolve conflicts with these principles in mind:
 
 * It’s impossible to change other people. We can only change ourselves.
 * We take ownership for our thoughts, beliefs, words, and actions. We don’t spread rumors.
@@ -14,7 +14,7 @@ Most interpersonal tensions can be resolved by sharing and being heard. If, howe
 
 Any formal conflict starts with a team member bringing a request directly to another team member. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign \("Please make a public commitment to our circle to arrive to meetings on time."\), to more involved \("Please commit to engaging a professional coach that will help you with your writing style."\), to the most extreme \("Please resign this particular role" or "Please resign from the Company"\).
 
-At all stages, the team member receiving the request can say Yes, No, or negotiate for a different outcome. If there's a "Yes" or another outcome that's sufficient to both, then the conflict is resolved. If there's a "No" then the initiating team member has the choice of either escalating the conflict to the next
+At all stages, the team member receiving the request can say Yes, No, or negotiate for a different outcome. If there's a "Yes" or another outcome that's sufficient to both, then the conflict is resolved. If there's a "No" then the initiating team member can escalate the conflict to the next level.
 
 ## Resolution Phases {#resolution-phases}
 
@@ -36,5 +36,5 @@ Sometimes, a team member can sense a conflict between two people \(or is caught 
 
 ## Team Members v.s. Non-Team Members {#partners-vs-non-partners}
 
-Our conflict resolution process is an agreement made by and between team members. It's important to remember and acknowledge that no other stakeholders are bound to this process, or have agreed to it. When resolving conflicts with non-team member, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
+Our conflict resolution process is an agreement made by and between team members. It's important to remember and acknowledge that no other stakeholders are bound to this process, or have agreed to it. When resolving conflicts with a non-team member, do your best to adhere to the spirit of our agreements within the confines of what's efficient/appropriate to the situation.
 

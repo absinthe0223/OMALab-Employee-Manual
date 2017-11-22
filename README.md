@@ -18,7 +18,7 @@ _**This document is subject to change without prior notice.**_
 
 ### MOST IMPORTANT THINGS TO REVIEW {#most-important-things-to-review}
 
-While we attempt to get you to sign and accept the Guide as a guidebook for our working relationship--sometimes its difficult to get these documents back. Given this, you understand and acknowledge that by receiving a payment from OMALab, Inc. you are accepting the terms of this guidebook in its entirety, in all current and future versions.
+While we attempt to get you to sign and accept the Guide as a guidebook for our working relationship--sometimes it is difficult to get these documents back. Given this, you understand and acknowledge that by receiving a payment from OMALab, Inc. you are accepting the terms of this guidebook in its entirety, in all current and future versions.
 
 Specifically, we strongly suggest you review the following contractual documents:
 
@@ -31,7 +31,7 @@ Specifically, we strongly suggest you review the following contractual documents
 * [Supplemental Policies for Remote Employees and Contractors](/chapter1/supplemental-policies-for-remote-employees-and-contractors.md)
   * As a remote employee, or if you are working from home some of the time, this applies to you. Please review.
 * [Supplemental Policies for Bonus and Commissions](/chapter1/supplemental-policies-for-bonuses-commissions-and-other-performance-based-payments.md)
-  * Getting a bonus or an MBO? Then, you should review this document.
+  * Getting a bonus or an MBO? Then you should review this document.
 * [Disputes and Arbitration](/chapter1/disputes-and-arbitration.md)
   Most of this is covered in the Confidential information agreement. But, for the sake of completeness, we defined the terms of this again.
 

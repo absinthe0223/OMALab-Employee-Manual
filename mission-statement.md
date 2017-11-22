@@ -11,7 +11,7 @@ To progress marketing science.
 The mission of OMALab is to provide businesses with the ability to reach their prospects cost-effectively with the right message.
 
 * Today, businesses spend a TON of money on paid ads that don't reach people actually interested in their products or services. This wasted ad spend is highly inefficient, and could be applied more efficiently.
-* Ad networks have turned a blind eye to this problem, as it's not in their economic interests. Up to 50% of clicks are fraudulent, yet ad networks continue to make it harder to track and manage/measure ad spend.
+* Ad networks have turned a blind eye to this problem because it is not in their economic interests. Up to 50% of clicks are fraudulent, yet ad networks continue to make it harder to track and manage/measure ad spend.
 * Prospects have gotten more sophisticated, with "blindness" to things that aren't really meaningful and relevant RIGHT NOW to them.
 
 We fulfill our purpose by helping businesses reach their ideal prospects with real, true value.
@@ -26,7 +26,7 @@ We take responsibility with our customers to find the right prospect, with the r
 
 It is 2020. Our software listens to the chatter on the internet. Automatically, it configures itself to target the right prospects with offers that match their particular interests. The system configures campaigns, tracks offers, and optimizes content to convert faster and better than humans.
 
-The marketing teams at our customers work on building great offers for their prospects. Our system turns it into landing page, sets up ads and offers, does all the promotion, and drives traffic & leads to the business.
+The marketing teams at our customers work on building great offers for their prospects. Our system turns it into a landing page, sets up ads and offers, does all the promotion, and drives traffic & leads to the business.
 
 ## Who is OMA? {#who-is-oma}
 
@@ -36,9 +36,9 @@ The world is full of status quo. Stuff that we put up with in our lives every da
 
 ### Incumbents keep progress from happening. {#incumbents-keep-progress-from-happening}
 
-It is in their interest. Incumbents have a vested interest in maintaining the status quo. They are doing well. They are maintaining or gaining. They have won. Why upset the apple cart?
+Incumbents have a vested interest in maintaining the status quo. They are doing well. They are maintaining or gaining. They have won. Why upset the apple cart?
 
 ### We are not them. We are not the incumbent. We are the rebel, the upstart. {#we-are-not-them-we-are-not-the-incumbent-we-are-the-rebel-the-upstart}
 
-At OMALab, we are NOT the incumbent. We are not the people that have it all in our pocket, clawing to keep our stuff. We are the rebel, the upstart. We are the people that, through hard work, ingenuity, tenacity, and luck, make thing better.
+At OMALab, we are NOT the incumbent. We are not the people that have it all in our pocket, clawing to keep our stuff. We are the rebel, the upstart. We are the people that, through hard work, ingenuity, tenacity, and luck, make things better.
 

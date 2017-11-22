@@ -12,9 +12,9 @@ You can't sustain a sprint through a marathon. Remember the tortoise. When in do
 
 Respect, love, and nurture your own and others' opinions. Recognize that they are just that—opinions—and are thus vulnerable to fallacy. Nobody ever learned anything through radical stubbornness of opinion. That's the opposite of learning. Embrace not-knowing, and don't confuse confidence with certainty.
 
-Stay true to it, and seek to clarify its origin. If you give up on your tension, you will disengage from your work and rob the company from the information embedded in it.
+Stay true to your confidence, and seek to clarify its origin. If you give up on your tension, you will disengage from your work and rob the company of the information embedded in it.
 
-Even as you stay true and firm with your tension, stay loose and flexible with the proposed solution. There are many ways to resolve a tension.
+Even as you stay true and firm to your conviction, stay loose and flexible with the proposed solution. There are many ways to resolve the tension between problem and solution and opinions and alternatives.
 
 ## Run experiments, not debates {#run-experiments-not-debates}
 
@@ -22,7 +22,7 @@ Inquiry and proof are valuable, healthy, and actionable. Unfounded arguments pro
 
 ## Save yourself, not the world {#save-yourself-not-the-world}
 
-It's easy to feel like because we're in education we need to pretend to be purely selfless and altruistic. That "we're here to help". Bring your personal purpose, needs, and agenda to the table. It's more honest.
+It's easy to feel like because we are consulting and educating our customers that we need to pretend to be purely selfless and altruistic. That "we're here to help". Bring your personal purpose, needs, and agenda to the table. It's more honest.
 
 > "If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together." ~ Lilly Watson
 

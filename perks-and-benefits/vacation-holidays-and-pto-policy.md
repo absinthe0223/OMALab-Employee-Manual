@@ -6,7 +6,7 @@ Here at OMAlab, we’re working hard on creating a culture of personal responsib
 
 We strongly feel that we’ll have better employee productivity and retention with this policy, but it’s not for everyone. It requires a strong peer review process and a lot of trust in your employees.
 
-Here at OMAlab, we recognize the need for employees to take time away from the office to creatively recharge, and that not everyone works the best during traditional 9 to 5 office hours. We also believe in taking personal responsibility for managing our own time, workload and results. To that end, we’ve adopted an Open PTO \(Paid Time Off\) policy, in which each employee is afforded the flexibility to take vacation, take time off for illness and shift schedules as necessary.
+Here at OMAlab, we recognize the need for employees to take time away from the office to creatively recharge, and that not everyone works best during traditional 9 to 5 office hours. We also believe in taking personal responsibility for managing our own time, workload and results. To that end, we’ve adopted an Open PTO \(Paid Time Off\) policy, in which each employee is afforded the flexibility to take vacation, take time off for illness and shift schedules as necessary.
 
 ## Our Policy
 

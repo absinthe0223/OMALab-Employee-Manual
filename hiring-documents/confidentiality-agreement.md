@@ -14,7 +14,7 @@ Employee will perform for the Company such duties as may be designated by the Co
 
 ## 3. Payments, excluding Base Salaries or Hourly Wages
 
-Employee shall be entitled to be considered for a bonus, commission, management by objective \(MBO\) or other bonus structure \("bonus"\). The decision as to whether to pay a bonus, and the amount of any bonus, are entireley at the Company's absolute discretion. The Company may, at any time, withdraw or modify any bonus plan. Absolute discretion for payments \(or lack of payments\) includes all Sales Plans, MBO Plans, or other schemes for payments above base salary or hourly wages.
+Employee shall be entitled to be considered for a bonus, commission, management by objective \(MBO\) or other bonus structure \("bonus"\). The decision as to whether to pay a bonus, and the amount of any bonus, are entirely at the Company's absolute discretion. The Company may, at any time, withdraw or modify any bonus plan. Absolute discretion for payments \(or lack of payments\) includes all Sales Plans, MBO Plans, or other schemes for payments above base salary or hourly wages.
 
 ## 4. Payments for Contract and Consulting Work
 

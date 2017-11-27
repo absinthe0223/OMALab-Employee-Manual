@@ -4,7 +4,7 @@ I acknowledge I have received a copy of the OMAlab Guide, have read it, and unde
 
 I further understand that the statements contained in the guide do not create any contractual or other legal obligations of employment. I also understand that OMAlab may at any time modify, rescind, or revise any policy, benefit, or practice described in the guide, except for its policy of at-will employment.
 
-I understand and agree that my employment with OMAlab is at-will and can be terminated by either me or the company without cause or notice and that nothing in the guide should be interpreted to the contrary.  An employment agreement and IP agreements super-cede anything in this document.
+I understand and agree that my employment with OMAlab is at-will and can be terminated by either me or the company without cause or notice and that nothing in the guide should be interpreted to the contrary.  An employment agreement and IP agreements supersede anything in this document.
 
 I understand and acknowledge that OMAlab, Inc. is only obligated to pay base salary and benefits. All other payments are at the discretion of the CEO and Board of Directors.
 

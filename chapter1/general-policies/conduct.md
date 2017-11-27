@@ -1,6 +1,6 @@
 ## Conduct Policy
 
-This Code of Conduct applies to community members and OMAlab/Audienti in all Audienti communities online \(including but not limited to IRC, support chat, the Audienti/GrowthChat/Growmance Slack, Twitter, and Facebook\), in the Audienti office, and at all events hosted by Audienti.
+This Code of Conduct applies to partners and OMAlab/Audienti in all Audienti communities online \(including but not limited to IRC, support chat, the Audienti/GrowthChat/Growmance Slack, Twitter, and Facebook\), in the Audienti office, and at all events hosted by Audienti.
 
 Our team is dedicated to creating an inclusive environment for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, or computing experience \(or lack of any of the aforementioned\).
 

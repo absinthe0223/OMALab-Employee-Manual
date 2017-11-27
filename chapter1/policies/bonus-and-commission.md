@@ -12,7 +12,7 @@ If the Monthly Recurring Revenue \(MRR\) from your sales is less than your Month
 
 Any draws that are defined, even stated in your offer letter, are payable \(or not payable\) at the discretion of the CEO.
 
-For Sales Plans, OMAlab pays commission payments based on sales recognized payments received from the customer and paid in full as revenue, and only on final, collected sales.
+For Sales Plans, OMAlab pays commission payments based on sales, recognized payments received from the customer and paid in full as revenue, and only on final, collected sales.
 
 Most Sales Plans calculate commission only on ANNUAL Recurring Revenue, based on a committed, non-cancellable annual agreement executed by the customer, selling software or software-as-a-service products. If your sale includes terms that are shorter than an ANNUAL commitment by the customer, the company has the right to pay reduced commissions or withhold commissions for these payments until the customer reaches their 13th month \(12 months completed and paid\) for commissions to be paid and due.
 
@@ -20,5 +20,5 @@ If the sales deal includes other types of revenue, such as support, consulting, 
 
 OMAlab will make payments within one pay period of receipt of funds by the customer/client, in the case of Commission payments that are recognized as commissionable.
 
-All commission payments \(or lack of payment for commission\) will be considered final after 30 days. No changes to payouts in favor of the team member can be made after 30 days. The company reserves the right to make changes in the company favor for errors, omissions, and other items at any point the incorrect payment is recognized, up to three \(3\) years.
+All commission payments \(or lack of payment for commission\) will be considered final after 30 days. No changes to payouts in favor of a team member can be made after 30 days. The company reserves the right to make changes in the company's favor for errors, omissions, and other items at any point once the incorrect payment is recognized, up to three \(3\) years.
 

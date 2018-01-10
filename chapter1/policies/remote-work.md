@@ -2,7 +2,7 @@
 
 For contractors and remote employees, there are some additional policies that are required for you to be paid in full for your work at OMAlab.
 
-### You are budgeted at 7 hours per day of productive work. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
+### You are budgeted at 7 hours per day of work, with 5 hours of productive work, and 2 hours of meetings. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
 
 This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes you might have to work more, but the plan is for you to work 7 hours per day. This is, of course, unless your contract is for less working hours.
 
@@ -42,7 +42,7 @@ Not doing this lets down the team, costs the company money, and is grounds for t
 
 You are not to "run up" your hours working on items that, while need to be done, haven't been expressly assigned to you. It's a common problem, a contractor or hourly employee will run up their hours doing work that isn't the priority \(i.e. easy work\), continuing to charge for work that is "filler" work, or work extra slowly. This is totally unacceptable.
 
-It is YOUR job to ensure that your manager understands what you are doing, when you will be done, and when you will be free to work on something else. Not having a next job assigned to you is NOT an excuse to be idle. 
+It is YOUR job to ensure that your manager understands what you are doing, when you will be done, and when you will be free to work on something else. Not having a next job assigned to you is NOT an excuse to be idle.
 
 You will only be paid the hours you bill on items expressly assigned to you.
 

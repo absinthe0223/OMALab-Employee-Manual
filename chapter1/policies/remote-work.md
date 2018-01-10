@@ -4,7 +4,9 @@ For contractors and remote employees, there are some additional policies that ar
 
 ### You are budgeted at 7 hours per day of work, with 5 hours of productive work, and 2 hours of meetings. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
 
-This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes you might have to work more, but the plan is for you to work 7 hours per day. This is, of course, unless your contract is for less working hours.
+This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes you might have to work more, but the plan is for you to work 7 hours/day. This is, of course, unless your contract is for less working hours.
+
+Under no circumstances should any employee bill more than 35 hours a week, unless that week is expressly approved in advance.
 
 If you are billing more than 30 hours per week, you are expected to be a FULL time person. This means you don't work other jobs outside of OMAlab.
 

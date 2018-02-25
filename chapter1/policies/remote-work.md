@@ -2,7 +2,7 @@
 
 For contractors and remote employees, there are some additional policies that are required for you to be paid in full for your work at OMAlab.
 
-### You are budgeted at 7 hours per day of work, with 5 hours of productive work, and 2 hours of meetings. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
+### Unless stated in your agreement otherwise, you are budgeted at 7 hours per day of work, with 5 hours of productive work, and up to 2 hours of meetings. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
 
 This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes you might have to work more, but the plan is for you to work 7 hours/day. This is, of course, unless your contract is for less working hours.
 
@@ -12,7 +12,19 @@ If you are billing more than 30 hours per week, you are expected to be a FULL ti
 
 We manage you to 7 hours per day of productive work, because simply put it is not possible for a person to work 70 hours a week regularly and not burn out. So, given that we are expecting you to have a reasonable work schedule, this does NOT give you the right to add another 25 hours/week job on top of your work. It is expected you will rest and renew.
 
-To be clear, if we find you have abused this policy by taking other signficant work, you will be immediately terminated, and your final invoice will not be paid.
+To be clear, if we find you have abused this policy by taking other signficiant work, you will be immediately terminated, and your final invoice will not be paid.
+
+### You must work at your professional level of productivity to get your full compensation. {#you-must-complete-work-on-time-to-get-your-full-compensation}
+
+All people that are hired by OMAlab, Inc. are hired to do a job professionally and at high quality. When we hire you, we to look at your rate, and look at the time it should take a person that is billing at this rate to do a job. We make an assumption that if you are billing at a higher rate, we would expect you to do the job more quickly, and at a higher quality level.
+
+Sometimes, we find that a person is not as productive as they have promised. When this occurs, we look at what we believe the "industry norms" are for that role. Based on this, and based on our expectations, we reserve the right to reduce your payments to match the productive output of your actual work. 
+
+To be clear, you are not paid to sit in a chair, move a cursor around and types some stuff in a computer. You are paid to make productive, professional, working products. You are paid to complete tasks at a speed and quality commensurate with your professional level. If you do not do this, your payments may be deferred or reduced to  payments to reflect poor work quality and deliveries. 
+
+Your billing through our systems \(Time Doctor/Hubstaff/Upwork\) does NOT guarantee you a full payment, if you are operating below what is a reasonable level of productivity for your professional level. 
+
+If your productivity is below a reasonable expectation of productivity, and below what identified norms, then your compensation will be reduced. Further, we will have a discussion about either reducing your rate going forward, or terminating you from our agreement.
 
 ### You must COMPLETE work, on time, to get your full compensation. {#you-must-complete-work-on-time-to-get-your-full-compensation}
 

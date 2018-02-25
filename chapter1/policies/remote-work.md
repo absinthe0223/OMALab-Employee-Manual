@@ -20,20 +20,20 @@ All people that are hired by OMAlab, Inc. are hired to do a job professionally a
 
 Sometimes, we find that a person is not as productive as they have promised. When this occurs, we look at what we believe the "industry norms" are for that role. Based on this, and based on our expectations, we reserve the right to reduce your payments to match the productive output of your actual work.
 
-To be clear, you are not paid to sit in a chair, move a cursor around and types some stuff in a computer. You are paid to make productive, professional, working products. You are paid to complete tasks at a speed and quality commensurate with your professional level. If you do not do this, your payments may be deferred or reduced to  payments to reflect poor work quality and deliveries.
+To be clear, you are not paid to sit in a chair, move a cursor around and types some stuff in a computer. You are paid to make productive, professional, working products. You are paid to complete tasks at a speed and quality commensurate with your professional level. 
 
-Given this, if there are problems, some of the metrics used will be:
+If there are problems, some of the metrics to evaluate you will be:
 
 * What did you check in that is working and operational over the interval in question?
 * What is the rate of "output" identified by the data of your role \(lines of code, leads generated, etc\). 
 * Did you adhere to the standards defined in this guide for work \(online work, limiting hours to the Not To Exceed limit, checking in code daily or more often, etc.\)?
 * Given your rate and seniority, what is the estimate for how many hours this work should take by others of a similar level? What do peers state how long this should take?
 
-If you do not adhere to company policies, this will keep us from being able to produce that to validate your work effort. As such, you will not be fully compensated \(or compensated at all\) for your work. 
+If you do not adhere to company policies, this will keep us from being able to produce data that validates your work effort. As such, you will not be fully compensated \(or compensated at all\) for your work. If we do this evaluation, and determine your performance to not be adequate for your billing rate and professional level, we will reduce your final payment and likely terminate our relationship.  
 
-Your billing through our systems \(Time Doctor/Hubstaff/Upwork\) does NOT guarantee you a full payment, if you are operating below what is a reasonable level of productivity for your professional level.
+If you are given a second opportunity to perform, and you continue to not meet expectations, you understand that you are on a probationary period, and no payment is guaranteed by OMAlab to you until you have proven your ability to perform at your professional level, seniority, and billing rate. 
 
-If your productivity is below a reasonable expectation of productivity, and below what identified norms, then your compensation will be reduced. Further, we will have a discussion about either reducing your rate going forward, or terminating you from our agreement.
+If your productivity is below a reasonable expectation of productivity, and below what identified norms, then your compensation will be reduced. Further, we will have a discussion about either reducing your rate going forward, or terminating you from our agreement. In no case does your billing through our systems \(Time Doctor/Hubstaff/Upwork\) guarantee you a full payment. 
 
 ### You must COMPLETE work, on time, to get your full compensation. {#you-must-complete-work-on-time-to-get-your-full-compensation}
 

@@ -19,5 +19,9 @@ If your Not to Exceed \(NTE\) is not explicitly set in a written agreement betwe
 
 **Billing hours to OMALab does NOT guarantee your payment for these hours**
 
-Your billing through our systems \(Time Doctor/Hubstaff/Upwork\) does NOT guarantee you a full payment.  OMAlab expects that you will produce at a level identified by  your professional level and billing rate. If you do not perform that this level, then you will not be paid for these hours. Please see the remote work section for additional details about professional levels. Further, OMAlab expects that you will follow our policies and procedures that enable us to track your productivity. Any non-adherence to company policies will result in reduced compensation. 
+Your billing through our systems \(Time Doctor/Hubstaff/Upwork\) does NOT guarantee you a full payment.  OMAlab expects that you will produce at a level identified by  your professional level and billing rate. If you do not perform that this level \(quality, speed, results\), then you will not be paid for these hours. Please see the remote work section for additional details about professional levels. 
+
+**Policies in this guide MUST be followed to receive full compensation**
+
+OMAlab expects that you will follow our policies and procedures that enable us to track your productivity. Any non-adherence to company policies will result in reduced or deferred compensation, or non-payment for services.
 

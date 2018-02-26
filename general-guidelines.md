@@ -2,6 +2,10 @@
 
 Advice from ourselves to ourselves for when we forget.
 
+## Build "Collective Knowledge" {#slow-down-to-speed-up}
+
+As a team, especially one that is remote, we have to work hard to maintain and grow "Collective Knowledge", aka that more than 1 person knows how to do things. To this end, we work together with people in areas doing multiple jobs--we are all generalists. This allows and empowers us to spread the knowledge of how things work.  In this same concept, if you are the first person working on a task, you should document how this section works in the WIki. That way, people can read it, and understand how an area works when they pick it up to work on it.
+
 ## Slow down to speed up {#slow-down-to-speed-up}
 
 You can't sustain a sprint through a marathon. Remember the tortoise. When in doubt, use [the Eisenhower box](http://jamesclear.com/eisenhower-box).

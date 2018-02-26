@@ -9,6 +9,7 @@
   * [Getting Things Done](operating-model/getting-things-done.md)
   * [Daily, Weekly, Monthly, and Annual Reviews](operating-model/daily-weekly-monthly-and-annual-reviews.md)
   * [GTD-Asana Key](operating-model/gtd-asana-key.md)
+  * [Planning & Process](operating-model/planning-and-process.md)
 * [Employment Policies](chapter1.md)
   * [Supplemental Policies](chapter1/policies.md)
     * [Client Engineering](chapter1/policies/client-engineering.md)

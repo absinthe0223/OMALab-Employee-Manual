@@ -41,4 +41,5 @@
 * [Operating Model](operating-model.md)
   * [Getting Things Done](operating-model/getting-things-done.md)
   * [Daily, Weekly, Monthly, and Annual Reviews](operating-model/daily-weekly-monthly-and-annual-reviews.md)
+  * [GTD-Asana Key](operating-model/gtd-asana-key.md)
 

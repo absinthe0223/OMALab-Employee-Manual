@@ -6,10 +6,6 @@ Trying to do GTD without this is like trying to learn martial arts without pract
 
 It requires changing our habits, which is difficult but rewarding.
 
-Please reach out to a GTD Coach if you're having resistance or trouble building these habits.
-
-OMA's assumption is that you're committing to these practices unless you let the Coach know otherwise.
-
 ### Daily:
 
 Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
@@ -32,7 +28,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
 
   * In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
-  * Are the items maximized from a 3D perspective? 
+  * Are the items maximized from a 3D perspective?
 
 ### Weekly:
 

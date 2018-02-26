@@ -1,3 +1,7 @@
+> Remember, 5 hours of coding will save you 1 hour of research. :\)
+>
+> * Arkency book "Async remote"
+
 ## Planning and Process
 
 These planning and process guidelines are defined to help us work together, better, while allowing everyone to work on their own, at their own pace.
@@ -25,18 +29,19 @@ There are a number of different tasks types that will be defined in the system. 
 * **Split Task** - Sometimes, when a developer gets a task, it will be larger than an atomic size. It's not a problem to have these, and it makes sense to have them. When you have a ticket that needs to be split.. you define the sub tasks that are required, add each of these tasks to the ticket system, and then work on the first task. The Split task then is labeled as a Split, and then closed, once it has been broken down into smaller tasks.
 * **Challenge Task** - No one should assume the tasks are added with full knowledge of the system. If you receive a task from the queue that is doubtful or questionable, contact the author and ask for clarification about why that task is created, and what outcome it is intended to bring about. Sometimes, you'll get information that helps you move forward. Sometimes, you'll change the task and its assumptions. Once the challenge has been resolved, continue on with the task. Leave the challenge on the task, so we can track the % of the time this happens. 
 
-
-
 ### Prioritization
 
 How do we prioritize which tasks in which order?
 
 * Defer technical decisions until the last possible moment. Maybe the task doesn't need to be created yet. 
 * Gather data about a task before defining it--create a task that creates the data, or a task that defines the behavior and use of the part, before doing the additional work to make it function. 
-* Detect the actors early - Who is going ot use the data? How? Build with a prioritization to these actors. 
+* Detect the actors early - Who is going to use the data? How? Build with a prioritization to these actors. 
 * Prioritize unknowns - try to work through the unknowns of the system, and clear these unknowns. Once the unknowns are handled, the risk reduces significantly. 
-* Code is not a stone - Continually refactor and make the code changeable. 
-* Optimi
+* All things being equal, Specification tasks have a priority over Atomic Tasks
+
+### Guidelines
+
+* If you're out of sync, you don't understand the tickets and their priority, schedule a realtime meeting to go through the tickets, and make sure everyone understands what we are doing. 
 
 
 

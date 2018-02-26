@@ -39,4 +39,5 @@
     * [2018 Sample Sales Compensation Letter](annual-agreements/2018/2018-sample-sales-compensation-letter.md)
 * [Acknowledgements](acknowledgements.md)
 * [Operating Model](operating-model.md)
+  * [Getting Things Done](operating-model/getting-things-done.md)
 

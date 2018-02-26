@@ -74,10 +74,10 @@ Therearenumerouswaysinwhichwecollectinformationand,inthismoderntechnologicalera,
 
 * **Backpack/Briefcase**
   — Each of these is essentially an inbox. If it isn’t processed regularly then important opportunities could slip through the cracks. Especially if you’re a frequent traveller, it’s recommend that you carry a distinct folder that you deem your mobile inbox.
-* **E-mail**
-  ---
+* ## **E-mail**
 
   — You likely have at least a couple of accounts and may receive a high volume of e- mail. Having a strategy to deal with e-mail is important and is a topic we’ll cover in the second part of the course.
+
 * **Facebook**
   , Twitter, etc. — Social media has given others a range of new ways to get in touch with us.
 * **Mailbox**

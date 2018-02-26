@@ -38,4 +38,5 @@
     * [2018 Sales Compensation Plan](annual-agreements/2018/2018-sales-compensation-plan.md)
     * [2018 Sample Sales Compensation Letter](annual-agreements/2018/2018-sample-sales-compensation-letter.md)
 * [Acknowledgements](acknowledgements.md)
+* [Operating Model](operating-model.md)
 

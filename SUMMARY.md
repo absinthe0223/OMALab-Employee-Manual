@@ -35,7 +35,7 @@
     * [2017 Sales Compensation Plan](annual-agreements/2017/2017-sales-compensation-plan.md)
     * [2017 Sample Sales Compensation Letter](annual-agreements/2017/2017-sample-sales-compensation-letter.md)
   * [2018](annual-agreements/2018.md)
-    * 2018 Sales Compensation Plan
+    * [2018 Sales Compensation Plan](annual-agreements/2018/2018-sales-compensation-plan.md)
     * 2018 Sample Sales Compensation Letter
 * [Acknowledgements](acknowledgements.md)
 

@@ -26,6 +26,7 @@
   * [Complaints](chapter1/general-policies/complaints.md)
   * [Substance](chapter1/general-policies/alcohol.md)
   * [Expenses](chapter1/general-policies/expenses.md)
+  * [External Communications](chapter1/general-policies/external-communications.md)
 * [Perks and Benefits](perks-and-benefits.md)
   * [Health Care](perks-and-benefits/health-care.md)
   * [Vacation, Holidays and PTO Policy](perks-and-benefits/vacation-holidays-and-pto-policy.md)
@@ -41,6 +42,4 @@
   * [2018](annual-agreements/2018.md)
     * [2018 Sales Compensation Plan](annual-agreements/2018/2018-sales-compensation-plan.md)
     * [2018 Sample Sales Compensation Letter](annual-agreements/2018/2018-sample-sales-compensation-letter.md)
-* [Acknowledgements](acknowledgements.md)
-* [Style & Communication Guide](style-and-communication-guide.md)
 

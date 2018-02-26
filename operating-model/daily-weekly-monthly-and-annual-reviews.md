@@ -32,7 +32,7 @@ Check out the [Daily Review Video](https://shereef.wistia.com/medias/nzjxjkj2if)
 
   * In Evening, what’s left on today that wasn’t done, does it stay there or move?
 
-  * Are the items maximized from a 3D perspective? 
+  * Are the items maximized from a 3D perspective?
 
 ### Weekly:
 

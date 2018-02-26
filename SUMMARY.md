@@ -38,8 +38,4 @@
     * [2018 Sales Compensation Plan](annual-agreements/2018/2018-sales-compensation-plan.md)
     * [2018 Sample Sales Compensation Letter](annual-agreements/2018/2018-sample-sales-compensation-letter.md)
 * [Acknowledgements](acknowledgements.md)
-* [Operating Model](operating-model.md)
-  * [Getting Things Done](operating-model/getting-things-done.md)
-  * [Daily, Weekly, Monthly, and Annual Reviews](operating-model/daily-weekly-monthly-and-annual-reviews.md)
-  * [GTD-Asana Key](operating-model/gtd-asana-key.md)
 

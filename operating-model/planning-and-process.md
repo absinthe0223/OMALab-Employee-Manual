@@ -16,15 +16,27 @@ Work that is queued should be actively worked to minimize dependencies on tasks 
 
 **Step 3. A person takes the NEXT task.** Human nature is to pick the easiest task in the queue. Therefore, each person that is working that queue, should take the next task. Sometimes it will be easy, and you will be able to complete multiple tasks in 1 day. Sometimes, you pick the harder one, and it will take an entire day to complete. But, in all cases, you're getting to work on many different things.
 
+### Ticket Types
+
+There are a number of different tasks types that will be defined in the system. They are:
+
+* **Atomic** - A generic task, something to do. An executable job.
+* **Specification Task** - Based on the work breakdown structure, a section may need additional definition. A task that defines this additional breakdown is called a "Specification" task, and should be labeled as such. The output or results from this task, is a breakdown of tasks into atomic size tasks. 
+* **Split Task** - Sometimes, when a developer gets a task, it will be larger than an atomic size. It's not a problem to have these, and it makes sense to have them. When you have a ticket that needs to be split.. you define the sub tasks that are required, add each of these tasks to the ticket system, and then work on the first task. The Split task then is labeled as a Split, and then closed, once it has been broken down into smaller tasks.
+* **Challenge Task** - No one should assume the tasks are added with full knowledge of the system. If you receive a task from the queue that is doubtful or questionable, contact the author and ask for clarification about why that task is created, and what outcome it is intended to bring about. Sometimes, you'll get information that helps you move forward. Sometimes, you'll change the task and its assumptions. Once the challenge has been resolved, continue on with the task. Leave the challenge on the task, so we can track the % of the time this happens. 
 
 
-Ticket Types
 
-There are a number of different tasks types that will be defined in the system. They are: 
+### Prioritization
 
-* Atomic - A generic task, something to do. An executable job.
-* Specification Task - Based on the work breakdown structure, a section may need additional definition. A task that defines this additional breakdown is called a "Specification" ticket, and should be labeled as such. The output or results from this ticket, is a breakdown of tasks into atomic size tasks. 
-* Split Task - Sometimes, when a developer gets a task, it will be larger than an atomic size. It's not a problem to have these, and it makes sense to have them. When you have a ticket that needs to be split.. you define the sub tasks that are required, add each of these tasks to the ticket system, and then work on the first task. The Split task then is labeled as a task, and then closed. 
+How do we prioritize which tasks in which order?
+
+* Defer technical decisions until the last possible moment. Maybe the task doesn't need to be created yet. 
+* Gather data about a task before defining it--create a task that creates the data, or a task that defines the behavior and use of the part, before doing the additional work to make it function. 
+* Detect the actors early - Who is going ot use the data? How? Build with a prioritization to these actors. 
+* Prioritize unknowns - try to work through the unknowns of the system, and clear these unknowns. Once the unknowns are handled, the risk reduces significantly. 
+* Code is not a stone - Continually refactor and make the code changeable. 
+* Optimi
 
 
 

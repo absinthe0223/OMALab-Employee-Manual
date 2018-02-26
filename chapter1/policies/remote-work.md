@@ -2,7 +2,7 @@
 
 For contractors and remote employees, there are some additional policies that are required for you to be paid in full for your work at OMAlab.
 
-### Unless stated in your agreement otherwise, you are budgeted at 7 hours per day of work, with 5 hours of productive work, and up to 2 hours of meetings. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
+### Unless stated in your agreement otherwise, you are budgeted at 7 hours per day of work, with 6 hours of productive work, and up to 1 hour of meetings/planning. {#you-are-budgeted-at-7-hours-per-day-of-productive-work}
 
 This means that you are expected to work that amount of time regularly and consistently, and at peak performance. Sometimes you might have to work more, but the plan is for you to work 7 hours/day. This is, of course, unless your contract is for less working hours.
 
@@ -20,7 +20,7 @@ All people that are hired by OMAlab, Inc. are hired to do a job professionally a
 
 Sometimes, we find that a person is not as productive as they have promised. When this occurs, we look at what we believe the "industry norms" are for that role. Based on this, and based on our expectations, we reserve the right to reduce your payments to match the productive output of your actual work.
 
-To be clear, you are not paid to sit in a chair, move a cursor around and types some stuff in a computer. You are paid to make productive, professional, working products. You are paid to complete tasks at a speed and quality commensurate with your professional level. 
+To be clear, you are not paid to sit in a chair, move a cursor around and types some stuff in a computer. You are paid to make productive, professional, working products. You are paid to complete tasks at a speed and quality commensurate with your professional level.
 
 If there are problems, some of the metrics to evaluate you will be:
 
@@ -29,11 +29,11 @@ If there are problems, some of the metrics to evaluate you will be:
 * Did you adhere to the standards defined in this guide for work \(online work, limiting hours to the Not To Exceed limit, checking in code daily or more often, etc.\)?
 * Given your rate and seniority, what is the estimate for how many hours this work should take by others of a similar level? What do peers state how long this should take?
 
-If you do not adhere to company policies, this will keep us from being able to produce data that validates your work effort. As such, you will not be fully compensated \(or compensated at all\) for your work. If we do this evaluation, and determine your performance to not be adequate for your billing rate and professional level, we will reduce your final payment and likely terminate our relationship.  
+If you do not adhere to company policies, this will keep us from being able to produce data that validates your work effort. As such, you will not be fully compensated \(or compensated at all\) for your work. If we do this evaluation, and determine your performance to not be adequate for your billing rate and professional level, we will reduce your final payment and likely terminate our relationship.
 
-If you are given a second opportunity to perform, and you continue to not meet expectations, you understand that you are on a probationary period, and no payment is guaranteed by OMAlab to you until you have proven your ability to perform at your professional level, seniority, and billing rate. 
+If you are given a second opportunity to perform, and you continue to not meet expectations, you understand that you are on a probationary period, and no payment is guaranteed by OMAlab to you until you have proven your ability to perform at your professional level, seniority, and billing rate.
 
-If your productivity is below a reasonable expectation of productivity, and below what identified norms, then your compensation will be reduced. Further, we will have a discussion about either reducing your rate going forward, or terminating you from our agreement. In no case does your billing through our systems \(Time Doctor/Hubstaff/Upwork\) guarantee you a full payment. 
+If your productivity is below a reasonable expectation of productivity, and below what identified norms, then your compensation will be reduced. Further, we will have a discussion about either reducing your rate going forward, or terminating you from our agreement. In no case does your billing through our systems \(Time Doctor/Hubstaff/Upwork\) guarantee you a full payment.
 
 ### You must COMPLETE work, on time, to get your full compensation. {#you-must-complete-work-on-time-to-get-your-full-compensation}
 

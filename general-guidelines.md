@@ -2,9 +2,17 @@
 
 Advice from ourselves to ourselves for when we forget.
 
+## You are a "value producer" no matter your role in the company. {#slow-down-to-speed-up}
+
+If you are a developer, or a marketer, or a salesperson, your job is to produce value. This means that often, you will need to step out/over your role as defined on paper, to get value to be produced. Maybe you are a developer and you need to define a task before you work on it... or ping a fellow developer to get his status done. Maybe you need to attend a meeting and help prioritize all the tasks.  Maybe you 're in marketing, but you need to do research to build some data that is needed in an engineering tool. We all do what it takes to get the job done. We are all value producers. 
+
 ## Build "Collective Knowledge" {#slow-down-to-speed-up}
 
-As a team, especially one that is remote, we have to work hard to maintain and grow "Collective Knowledge", aka that more than 1 person knows how to do things. To this end, we work together with people in areas doing multiple jobs--we are all generalists. This allows and empowers us to spread the knowledge of how things work.  In this same concept, if you are the first person working on a task, you should document how this section works in the WIki. That way, people can read it, and understand how an area works when they pick it up to work on it.
+As a team, especially one that is remote, we have to work hard to maintain and grow "Collective Knowledge", aka that more than 1 person knows how to do things. To this end, we work together with people in areas doing multiple jobs--we are all generalists. This allows and empowers us to spread the knowledge of how things work.
+
+## Strive to Reduce Cognitive Overhead
+
+How hard is it for someone to pick up what you're working on? If it's hard, then you need to do something about it to make it easier. Write a Wiki entry. Break the code down to a lower level, making it simpler. In this same concept, if you are the first person working on a task, you should document how this section works in the WIki. That way, people can read it, and understand how an area works when they pick it up to work on it.
 
 ## Slow down to speed up {#slow-down-to-speed-up}
 

@@ -1,4 +1,4 @@
-# GTD-AsanaKey
+# GTD/Asana Key
 
 This key is a guide to how GTD concepts are translated and used in Asana. All OMA people will use the same methodology.
 

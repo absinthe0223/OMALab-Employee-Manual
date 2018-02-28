@@ -1,6 +1,6 @@
 ## Standups and Meetings
 
-Every company tries to balance the number of meetings \(which burn time\) with knowledge flow through the organization \(the bigger the flow the better\). No "ratio" is perfect, and will work for every situation. 
+Every company tries to balance the number of meetings \(which burn time\) with knowledge flow through the organization \(the bigger the flow the better\). No "ratio" is perfect, and will work for every situation.
 
 Our set meeting schedule
 
@@ -10,9 +10,9 @@ Text-based, asynchronous standups
 * Focuses on readers
 * Mostly for status updates
 * Format
+
   * Yesterday
   * Today
-
   * Good things
   * Bad things
   * Challenges

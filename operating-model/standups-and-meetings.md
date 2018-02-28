@@ -6,7 +6,7 @@ Our set meeting schedule
 
 Text-based, asynchronous standups
 
-* Written on our chat in the \#standup channel accessible to everyone
+* Written on our chat in the \#dailyupdates channel accessible to everyone
 * Focuses on readers
 * Mostly for status updates
 * Format
@@ -23,7 +23,7 @@ Text-based, asynchronous standups
 
 One weekly project meeting
 
-* Do not take time to update everyone on who is working, because we should know that from the \#dailyupdates and \#standups conversations
+* Do not take time to update everyone on who is working, because we should know that from the \#dailyupdates conversations
 * Discuss problems, priorities, business domains, refactoring, knowledge crunching
 * Generate a list of topics to discuss \(that don't have to be solved today\) for the upcoming week
 * Recorded and can be played back

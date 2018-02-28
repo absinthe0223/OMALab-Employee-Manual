@@ -1,47 +1,58 @@
 # GTD-AsanaKey
 
-ThiskeyisaguidetohowGTDconceptsaretranslatedandusedinAsana.AllLGpartnerswillbeusingthesamemethodology.
+This key is a guide to how GTD concepts are translated and used in Asana. All OMA people will use the same methodology.
 
-**Context==Tag**  
-  
-Use tags for the contexts, i.e. the type of task or the context in which you need to get it done.  
+**Context==Tag**
+
+Use tags for the contexts, i.e. the type of task or the context in which you need to get it done. Tags must be lower case always  
 We will be using standardized contexts across the organization:
 
-* Online: Needs to be done online, using smartphone or computer
-* Phone: It’s a phone call
-* Office: This needs to be done at the LG office
-* Errand: This needs to be run as an errand
-* Home: This needs to be done at home
-* Think: This is something that needs some thought, not immediate action
-* Read: Something that requires reading
-* Listen: Something that requires listening
-* Bug: An problem that is customer impacting and that requires someone to fix it
-* Frog: This is a big action, and will require concerted effort/time
-* Focus:This requires a high level of focus, you might want to reserve your most alert/productive time for these tasks
-* Avoiding: You know you have a habit/tendency to try and avoid tasks like this
-* Easy: This can be easily and quickly done without much focus, might want to reserve these for if you have some brief time to get some quick things done
-* Waiting: This is waiting on someone else to complete a task of their own first
-* Maybe later: This is a good idea worth keeping, but now’s not the time for it, you’ll look at this context every once in a while and see if anything needs to be moved to more immediate
-* High Pri: These are high priority tasks that needs immediate attention
-* Stale: These are tags that are auto-marked by the GTD bot that haven't been touched in over 4 weeks.
+| Tag/Context | Description |
+| :--- | :--- |
+| online | Needs to be done online, using a smartphone or a computer |
+| phone | It's a phone call |
+| office | This needs to be done at the office |
+| errand | You have to leave and go to a third party place to do this |
+| home | You need to do this at home |
+| think | This is something to give feedback about |
+| specification | This is something you need to write up a description about |
+| challenge | This is a task that you think doesn't need to be done, and are discussing with the creator |
+| split | This task has been split into smaller tasks \(atomic tasks\) |
+| read | You have to read this. Should have something attached. |
+| listen | Something to listen to.   |
+| bug | A customer impacting bug |
+| frog | A big action that requires hard concentration and effort |
+| avoiding | You know you have a tendency to avoid tasks like this |
+| easy | This can be done without much focus, group these and do them occassionally |
+| waiting | Waiting on someone else to complete a task first |
+| someday | It's a good idea to keep it in the list, but you're not going to do this now |
+| hipri | A high priority task that needs immediate attention |
+| stale | Tags that are auto-marked by the GTD bot that haven't been touched for 4 weeks |
 
-**Project==Project**
 
-**Duedate==Duedate**
 
-**Timing==Newtasks,Today,UpcomingandLaterinAsana**
+**Project == Project**
 
-* New tasks: have not been sorted yet - This is your unprocessed inbox
-* Today: This is where you'll sort tasks that you've decided in your morning sorting that you'll be doing today. Generally keep this list short and manageable to avoid overwhelm or blockage
-* Upcoming: means that you will be getting to them soon, they are your next actions, and you'll be checking to see at the end of each day if you're going to move them to today
-* Later: means they do not need your immediate attention. You will check on these in your monthly review to see if anything needs to be moved to upcoming or today.
-* 
-**Itemsinfrontofaprojectname**
+**Due date == Due date**
+
+**Timing == New tasks, Today, Upcoming and Later in Asana**
+
+| Status  | Description |
+| :--- | :--- |
+| New tasks | Have not been sorted yet. This is your unprocessed inbox. |
+| Today | This is where you've sorted tasks that you've decided in your morning sorting you're going to do today. Generally keep this list short to avoice overwhelm or blockage |
+| Upcoming | This means you're getting to them soon, they are your next actions, so you'll be checking to see at the end of each day if you're moving them to today |
+| Later | This is your backlog. You need to check these in your weekly and monthly review so see if anything needs to move to upcoming or today |
+
+
+
+Project Naming
 
 * \_ \(underscore\) - is a non-actionable project or a project template
-* @ \(ampersand\) - is a context-based, non-actionable project
-* &
-  ROLE - is an ongoing, role-based project. Things tha tare todos because they are in a particular role. Your ongoing work.
 
-_Note:Thesearedifferentfromthosetagged“maybelater”whichmeansthatthey’refutureprojects.Laterjustmeansthey’renotimmediate_
+* @ \(ampersand\) - is a context-based, non-actionable project
+
+* &ROLE - is an ongoing, role-based project. Things that are todos because they are in a particular role. Your ongoing work.
+
+_Note:These are different from those tagged “someday” which means that they’re future projects.Later just means they’re not immediate_
 

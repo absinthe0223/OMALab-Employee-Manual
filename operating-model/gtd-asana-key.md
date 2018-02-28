@@ -2,7 +2,7 @@
 
 This key is a guide to how GTD concepts are translated and used in Asana. All OMA people will use the same methodology.
 
-**Context==Tag**
+**Context == Tag**
 
 Use tags for the contexts, i.e. the type of task or the context in which you need to get it done. Tags must be lower case always  
 We will be using standardized contexts across the organization:

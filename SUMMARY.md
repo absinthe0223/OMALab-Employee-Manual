@@ -12,6 +12,7 @@
   * [Planning & Process](operating-model/planning-and-process.md)
   * [Standups and Meetings](operating-model/standups-and-meetings.md)
   * [Using Slack](operating-model/using-slack.md)
+  * [Engineering Process](operating-model/engineering-process.md)
 * [Employment Policies](chapter1.md)
   * [Supplemental Policies](chapter1/policies.md)
     * [Client Engineering](chapter1/policies/client-engineering.md)

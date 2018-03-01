@@ -1,6 +1,6 @@
 ## Using Slack
 
-In our system, we replace email with Slack. Our general use is: 
+In our system, we replace email with Slack. Our general use is:
 
 * \#dailyupdates - post your async daily update to this channel
 * \#project-name - In general, we have a project channel for each project we are working on.  These project channels often have the client as well in the them, so please act responsibly. 
@@ -8,7 +8,7 @@ In our system, we replace email with Slack. Our general use is:
 * \#donoterase - This is a chanel designed to be a TL;DR for announcements, weird bugs, or issues
 * \#links - Good links for people. Duplicates are OK, and no negatives about things that are listed there
 
-Pro tips for use 
+Pro tips for use
 
 * in project channels, make a topic with the link to github, Asana, or the Wiki describing the project. This is a top-level entry point for people joining and watching this project. A starting point for them to look for tasks and more info about it.
 

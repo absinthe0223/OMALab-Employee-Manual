@@ -15,6 +15,7 @@
   * [Engineering Process](operating-model/engineering-process.md)
   * [Client Ticket Management](operating-model/client-ticket-management.md)
   * [Recording and Posting Screencasts](operating-model/recording-and-posting-screencasts.md)
+  * [Tracking Time](operating-model/tracking-time.md)
 * [Employment Policies](chapter1.md)
   * [Supplemental Policies](chapter1/policies.md)
     * [Client Engineering](chapter1/policies/client-engineering.md)

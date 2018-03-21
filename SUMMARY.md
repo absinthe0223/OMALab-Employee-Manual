@@ -38,4 +38,6 @@
   * [2018](annual-agreements/2018.md)
     * [2018 Sales Compensation Plan](annual-agreements/2018/2018-sales-compensation-plan.md)
     * [2018 Sample Sales Compensation Letter](annual-agreements/2018/2018-sample-sales-compensation-letter.md)
+* Contractor/Upwork Policies
+  * [Rules and Work Behaviors](rules-and-work-behaviors.md)
 

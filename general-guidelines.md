@@ -4,11 +4,15 @@ Advice from ourselves to ourselves for when we forget.
 
 ## You are a "value producer" no matter your role in the company. {#slow-down-to-speed-up}
 
-If you are a developer, or a marketer, or a salesperson, your job is to produce value. This means that often, you will need to step out/over your role as defined on paper, to get value to be produced. Maybe you are a developer and you need to define a task before you work on it... or ping a fellow developer to get his status done. Maybe you need to attend a meeting and help prioritize all the tasks.  Maybe you 're in marketing, but you need to do research to build some data that is needed in an engineering tool. We all do what it takes to get the job done. We are all value producers. 
+If you are a developer, or a marketer, or a salesperson, your job is to produce value. This means that often, you will need to step out/over your role as defined on paper, to get value to be produced. Maybe you are a developer and you need to define a task before you work on it... or ping a fellow developer to get his status done. Maybe you need to attend a meeting and help prioritize all the tasks.  Maybe you 're in marketing, but you need to do research to build some data that is needed in an engineering tool. We all do what it takes to get the job done. We are all value producers.
 
 ## Build "Collective Knowledge" {#slow-down-to-speed-up}
 
 As a team, especially one that is remote, we have to work hard to maintain and grow "Collective Knowledge", aka that more than 1 person knows how to do things. To this end, we work together with people in areas doing multiple jobs--we are all generalists. This allows and empowers us to spread the knowledge of how things work.
+
+## State facts as facts, and opinions as opinions. And, understand the difference. {#slow-down-to-speed-up}
+
+"Bullshit" is commonly used to describe statements made by people more concerned with the response of the audience than in truth and accuracy, such as goal-oriented statements made in the field of politics or advertising.  Brandolini's Law states that "The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it." Because of this, we need to ensure our statements are either factual, or opinions, and labeled as such.  If they're not labeled correctly, then they are likely to be BS.  See https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps for more about BS and its long term implications to a company.
 
 ## Strive to Reduce Cognitive Overhead
 
